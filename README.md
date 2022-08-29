@@ -22,9 +22,9 @@ Estou cursando Análise e Desenvolvimento de Sistemas, amo programação e atual
 
 Algumas coisas sobre mim:
 
-- ❤ Já criei alguns bots
-- 💙 Estou me apaixonando pelo Python
-- 👩‍💻 Intercalando estudos sobre web e programação
+- 🤖 Já criei alguns bots
+- 💻 Estou me apaixonando pelo Python
+- 👩‍💻 Intercalando estudos sobre webdev com programação em python
 
 
 ---
