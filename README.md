@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-19ff40?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <img src = "banner (2).gif" width = "325px" align = "right">
   
   <a href = "https://twitter.com/victorodev">
   <img src="https://img.shields.io/badge/Twitter-19ff40?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -15,6 +14,8 @@
   <a href = "https://victorordev.com">
     <img src="https://img.shields.io/badge/victorodev.com-19ff40?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+  
+  <img src = "banner (2).gif" width = "325px" align = "right">
     
 </div>
 
@@ -39,5 +40,5 @@ Algumas coisas sobre mim:
 
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorodev&show_icons=true&theme=dark&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=victorodev&show_icons=true&show_icons=true&theme=dark&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=nakamas&show_icons=true&show_icons=true&theme=dark&count_private=true" />
 </div>
