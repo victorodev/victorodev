@@ -15,9 +15,8 @@
     <img src="https://img.shields.io/badge/victorodev.com-19ff40?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   
-  <img src = "banner (2).gif" width = "325px" align = "right">
+  <img src = "banner (2).gif" width = "375px" align = "right">
   
-<br>
 
 </div>
 
