@@ -11,12 +11,14 @@
   <img src="https://img.shields.io/badge/Twitter-19ff40?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <a/>
     
-  <a href = "https://victorordev.com">
+  <a href = "https://victorodev.com">
     <img src="https://img.shields.io/badge/victorodev.com-19ff40?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   
   <img src = "banner (2).gif" width = "325px" align = "right">
-    
+  
+<br>
+
 </div>
 
 Estou cursando Análise e Desenvolvimento de Sistemas, amo programação e atualmente estou concentrado em dominar as seguintes tecnologias:
