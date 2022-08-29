@@ -1,6 +1,6 @@
 <img src = "banner (2).gif" width = "325px" align = "right">
 
-#  Hello there, eu sou o Victor! 💚
+#  Oi, eu sou o Victor! 💚
   <div id="badges">
   <a href = "https://linkedin/in/victorodev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
