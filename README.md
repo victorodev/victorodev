@@ -1,10 +1,12 @@
-<img src = "banner (2).gif" width = "325px" align = "right">
+
 
 #  Oi, eu sou o Victor! 💚
   <div id="badges">
   <a href = "https://linkedin/in/victorodev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  <img src = "banner (2).gif" width = "325px" align = "right">
   
   <a href = "https://twitter.com/victorodev">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
