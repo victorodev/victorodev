@@ -20,13 +20,15 @@
 
 </div>
 
-Estou cursando Análise e Desenvolvimento de Sistemas, amo programação e atualmente estou concentrado em dominar as seguintes tecnologias:
+Estou cursando Análise e Desenvolvimento de Sistemas, amo programação e atualmente estou concentrado em dominar as seguintes ferramentas e tecnologias:
 
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
 Algumas coisas sobre mim:
