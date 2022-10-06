@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Twitter-19ff40?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <a/>
     
-  <a href = "https://victorodev.com">
+  <a href = "https://blog.victorodev.com">
     <img src="https://img.shields.io/badge/victorodev.com-19ff40?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   
